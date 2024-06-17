@@ -1,5 +1,5 @@
--> Age - years
--> Grip Strength - kilograms
--> Height - inches
--> Weight - pounds
--> 'Y' indicates presence of Frailty and 'N' indicates absence of Frality. 
+Age - years
+Grip Strength - kilograms
+Height - inches
+Weight - pounds
+'Y' indicates presence of Frailty and 'N' indicates absence of Frality. 
